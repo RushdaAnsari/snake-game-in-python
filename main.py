@@ -1,6 +1,6 @@
 import turtle
 from turtle import Screen
-from snake import Snake
+from snake_body import Snake
 from food import Food
 from score import Score
 import keyboard
